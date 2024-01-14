@@ -1,1 +1,1 @@
-# Guess-The-Soil
+# DermAI
